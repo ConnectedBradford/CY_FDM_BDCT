@@ -4,9 +4,9 @@
 
 This is the Connected BradfordBradford District Care Trust (BDCT) GitHub page where you can find a summary of the dataset(s), data dictionaries and helpful code.
 
-# FDM_BDCT
+# Mental Health 
 
-Contains the scripts and documentation for the Bradford District Care Trust (BDCT) mental health services
+Contains the scripts and documentation for the Bradford District Care Trust (BDCT) mental health services 
 
 It contains approximately 300,000 patients. The dataset has been fully anonymised, but can link to other FDM's.
 
@@ -15,8 +15,8 @@ There is a single FDM for BDCT Mental Health Services .
 CB_FDM_BDCT_v4 - build date 2022-08-31 - data up to 2022-08-30
 
 
-# BDCT
-The BDCT FDM is made up of 12 source table (summarised below and data dictionaries linked) from routinely collected data from BDCT Trust for 334,832
+#CB_FDM_MentalHealth
+The  MentalHealth FDM is made up of 12 source table (summarised below and data dictionaries linked) from routinely collected data from BDCT Trust for 334,832
 individuals and their routinely collected clinical data. 
 
 The dates relevant for the latest build are: 1910-07-15	to 2022-08-30
